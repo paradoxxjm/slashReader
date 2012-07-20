@@ -1,7 +1,7 @@
 package org.slashroots.slashreader;
 
-import org.example.sudoku.About;
-import org.example.sudoku.R;
+//import org.example.sudoku.About;
+//import org.example.sudoku.R;
 
 import android.app.ListActivity;
 import android.content.Intent;
@@ -34,8 +34,8 @@ public class feeds extends ListActivity {
     {   
     	switch (position) {
     	case 1:
-    		Intent i = new Intent(this, timeline.class);
-    		startActivity(i);
+    		//Intent i = new Intent(this, timeline.class);
+    		//startActivity(i);
     		break;
     	case 2:
     		break; 
